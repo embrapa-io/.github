@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/embrapa-io/.github/main/profile/logo.png" width="512">
 
 <!--
 
