@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/embrapa-io/.github/main/profile/logo.png" width="512">
 
+Plataforma para implantação de conceitos de DevOps, integração contínua e infraestrutura como serviços em processos de desenvolvimento de ativos digitais para a agricultura
+
 <!--
 
 **Here are some ideas to get you started:**
