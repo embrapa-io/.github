@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/embrapa-io/.github/main/profile/logo.png" width="512">
 
-Plataforma para implantação de conceitos de DevOps, integração contínua e infraestrutura como serviços em processos de desenvolvimento de ativos digitais para a agricultura
+O **Embrapa I/O**, disponível em [https://embrapa.io](https://embrapa.io), é uma plataforma agnóstica de inovação aberta, desenvolvimento colaborativo, entrega automatizada e monitoramento contínuo de ativos digitais para a agricultura. Mais especificamente, trata-se de uma ferramenta de DevOps que implementa um macroprocesso de desenvolvimento de software para Agricultura Digital. A ferramenta conta com _pipelines_ que automatizam as tarefas de teste, integração, entrega e implementação contínuas, mitigando o ônus destas atividades aos desenvolvedores, agilizando a construção de ativos digitais e otimizando a força de trabalho. Além disso, a plataforma institui o conceito de _boilerplates_ (aplicações-modelo para agricultura digital), que fomentam uma comunidade colaborativa e implementam similaridades, diretrizes e boas práticas de desenvolvimento. Por fim, monitora ativamente todos os ativos em quatro aspectos distintos: rastreamento de _bugs_, relatórios analíticos de uso, qualidade de código e detecção de ameaças e vulnerabilidades.
 
 <!--
 
