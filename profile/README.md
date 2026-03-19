@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/embrapa-io/.github/main/profile/logo.png" width="512">
+<img src="https://raw.githubusercontent.com/embrapa-io/.github/main/profile/embrapa.io-transp.svg" width="512">
 
 O **Embrapa I/O**, disponível em [https://embrapa.io](https://embrapa.io), é uma plataforma agnóstica de inovação aberta, desenvolvimento colaborativo, entrega automatizada e monitoramento contínuo de ativos digitais da [Embrapa](https://embrapa.br). Mais especificamente, trata-se de uma ferramenta de DevOps que implementa um macroprocesso de desenvolvimento de software para atender tanto a esfera institucional quanto a Agricultura Digital.
 
